@@ -1,2 +1,1 @@
-# House
-Intelligent Rental Management System
+# IntelligentRentalManagementSystem
